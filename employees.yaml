@@ -71,6 +71,10 @@ employees:
   - username: 0xhermes-28
     job_title: Autonomous Security Bounty Hunter & Bug-Class Pattern Matcher
     address: 71 Hermes Lane, Crypto District
+  - username: Ektisad25
+    job_title: Blockchain Security Researcher
+    address: Golden Egg Lane
+    
   - username: Ariyan-Pro
     job_title: Edge-AI Systems Orchestrator
     address: 71 Orange Tree Close, IoT District
